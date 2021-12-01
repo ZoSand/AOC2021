@@ -6,6 +6,6 @@
 
 int main()
 {
-	std::cout << Day1::Resolve(1, "./data/day1.txt") << std::endl;
-	std::cout << Day1::Resolve(2, "./data/day1.txt") << std::endl;
+	std::cout << "December 1st (1):" << Day1::Resolve(1, "./data/day1.txt") << std::endl;
+	std::cout << "December 1st (2):" << Day1::Resolve(2, "./data/day1.txt") << std::endl;
 }
