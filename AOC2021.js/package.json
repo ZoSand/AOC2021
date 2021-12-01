@@ -1,0 +1,9 @@
+{
+  "name": "aoc2021.js",
+  "version": "0.0.0",
+  "description": "AOC2021.js",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
