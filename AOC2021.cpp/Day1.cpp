@@ -29,8 +29,6 @@ int Day1::Resolve(int _part, std::string _filename)
 		data.push_back(std::stoi(stringBuffer));
 	}
 
-	//std::stoi(buffer.str());
-
 	switch (_part)
 	{
 	case 1:
