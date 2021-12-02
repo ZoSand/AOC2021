@@ -26,7 +26,7 @@ int Day1::Resolve(int _part, std::string _filename)
 			data.push_back(std::stoi(stringBuffer.substr(0, pos)));
 			stringBuffer.erase(0, pos + 1);
 		}
-		data.push_back(std::stoi(stringBuffer));
+		//data.push_back(std::stoi(stringBuffer));
 	}
 
 	switch (_part)
