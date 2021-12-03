@@ -12,6 +12,9 @@ namespace AOC2021.cs
             Console.WriteLine("December 2nd (1):" + Day2.Resolve(1, "./data/day2.txt"));
             Console.WriteLine("December 2nd (2):" + Day2.Resolve(2, "./data/day2.txt"));
 
+            Console.WriteLine("December 3rd (1):" + Day3.Resolve(1, "./data/day3.txt"));
+            Console.WriteLine("December 3rd (2):" + Day3.Resolve(2, "./data/day3.txt"));
+
             Console.Read();
         }
     }
