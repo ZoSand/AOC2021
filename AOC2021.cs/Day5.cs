@@ -10,7 +10,7 @@ namespace AOC2021.cs
     {
         public static int Resolve(int _part, string _filename)
         {
-            throw new NotImplementedException();
+            return -1;
         }
     }
 }
